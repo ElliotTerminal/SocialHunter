@@ -1,3 +1,13 @@
+# -*- coding: UTF-8 -*-
+# ToolName   : SocialHunter
+# Author     : ElliotTerminal
+# License    : GPL V3
+# Copyright  : ElliotTerminal (2022-2023)
+# Github     : https://github.com/ElliotTerminal
+# Description: SocialHunter - OSINT Tool to Hunt-Down Usernames
+# Language   : Python
+# If you copy open source code, please consider giving credit
+
 '''imports'''
 import requests
 import time
