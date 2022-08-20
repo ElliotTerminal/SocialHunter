@@ -274,6 +274,8 @@ def banner():
    `Y8b. 88    88 8b         88    88~~~88 88      88~~~88 88    88 88 V8o88    88    88~~~~~ 88`8b   
  db   8D `8b  d8' Y8b  d8   .88.   88   88 88booo. 88   88 88b  d88 88  V888    88    88.     88 `88. 
  `8888Y'  `Y88P'   `Y88P' Y888888P YP   YP Y88888P YP   YP ~Y8888P' VP   V8P    YP    Y88888P 88   YD 
+               
+                                                                                        By - ElliotTerminal
   ''')
 
 def search():
